@@ -1,6 +1,8 @@
 {
     "index": {
         "img": "img",
-        "test": "test"
+        "test": "test",
+        "header": "header",
+        "top": "top"
     }
 }
