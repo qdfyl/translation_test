@@ -3,6 +3,7 @@
         "img": "img",
         "test": "test",
         "header": "header",
-        "top": "top"
+        "top": "top",
+        "bottom": "bottom"
     }
 }
